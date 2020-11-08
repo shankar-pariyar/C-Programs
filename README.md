@@ -1,3 +1,3 @@
 ## C programs
 
-* C programs to help students understand programming concept.
+* C programs to help students understand programming concepts.
